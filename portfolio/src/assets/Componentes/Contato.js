@@ -1,4 +1,4 @@
-import './Assets/Contato.scss';
+import './css/Contato.scss';
 import 'font-awesome/css/font-awesome.min.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { library } from '@fortawesome/fontawesome-svg-core'

@@ -1,7 +1,7 @@
 import './App.scss';
-import Projetos from './Componentes/Projetos'
-import SobreMim from './Componentes/SobreMim'
-import Contato from './Componentes/Contato'
+import Projetos from './assets/Componentes/Projetos'
+import SobreMim from './assets/Componentes/SobreMim'
+import Contato from './assets/Componentes/Contato'
 import { createContext, useState } from "react";
 
 export const ThemeContext = createContext(null);

@@ -1,9 +1,9 @@
-import './Assets/Projetos.scss';
-import PedraPapel from'./Assets/PedraPapel.png';
-import Calculadora from'./Assets/Calculadora.png';
-import Pomodoro from'./Assets/Pomodoro.png';
-import Quote from'./Assets/Quote.png';
-import Tempo from'./Assets/Tempo.png';
+import './css/Projetos.scss';
+import PedraPapel from'./images/PedraPapel.png';
+import Calculadora from'./images/Calculadora.png';
+import Pomodoro from'./images/Pomodoro.png';
+import Quote from'./images/Quote.png';
+import Tempo from'./images/Tempo.png';
 
 function Projetos (){
     return (
