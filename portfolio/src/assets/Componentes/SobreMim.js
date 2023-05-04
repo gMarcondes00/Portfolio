@@ -5,7 +5,7 @@ import { library } from '@fortawesome/fontawesome-svg-core'
 import { faDatabase } from '@fortawesome/free-solid-svg-icons'
 import { faPhp, faReact } from '@fortawesome/free-brands-svg-icons'
 
-import { Perfil } from './images/Perfil.jpg'
+import Perfil  from './images/Perfil.jpg'
 
 library.add();
 function SobreMim () {
