@@ -5,6 +5,8 @@ import { library } from '@fortawesome/fontawesome-svg-core'
 import { faDatabase } from '@fortawesome/free-solid-svg-icons'
 import { faPhp, faReact } from '@fortawesome/free-brands-svg-icons'
 
+import { Perfil } from './images/Perfil.jpg'
+
 library.add();
 function SobreMim () {
     return (
@@ -15,6 +17,7 @@ function SobreMim () {
             <FontAwesomeIcon icon={faPhp} className="icone" />
             <FontAwesomeIcon icon={faDatabase} className="icone" />
             </div><hr/><br/>
+            <img src={Perfil} alt='Foto de perfil' className='perfil'/>
             <div className="">
                 <p>Graduando em Ciência e Tecnologia na Universidade Federal de São Paulo</p>
                 <p>Realizando cursos online como freeCodeCamp, theOdinProject e projetos propostos pela RocketSeat, busco oportunidades na área de desenvolvimento.</p><br/>
