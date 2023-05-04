@@ -1,0 +1,25 @@
+.Projetos {
+    margin: 100px;
+}
+
+.wrapper {
+    margin: 100px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    padding: 70px;
+
+    border-radius: 25px;
+    background: rgb(2,0,36);
+    background: linear-gradient(150deg, rgba(2,0,36,1) 0%, rgba(40,44,52,1) 35%, rgba(128,137,139,1) 100%); 
+    box-shadow: -13px -10px 26px 0px rgba(2,0,36,0.75);
+    -webkit-box-shadow: -13px -10px 26px 0px rgba(2,0,36,0.75);
+    -moz-box-shadow: -13px -10px 26px 0px rgba(2,0,36,0.75);
+    
+}
+
+.imagem {
+    width: auto;
+    height: 200px;
+    border: 1px solid  black;
+}
