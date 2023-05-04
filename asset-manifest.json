@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.578c3dd5.css",
-    "main.js": "/Portfolio/static/js/main.b692a818.js",
+    "main.css": "/Portfolio/static/css/main.22d230bd.css",
+    "main.js": "/Portfolio/static/js/main.6df32bee.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/Pomodoro.png": "/Portfolio/static/media/Pomodoro.d2f25d300563245766b1.png",
@@ -13,13 +13,14 @@
     "static/media/Quote.png": "/Portfolio/static/media/Quote.3a9d8728a0e227125c49.png",
     "static/media/PedraPapel.png": "/Portfolio/static/media/PedraPapel.7fac59c2c1ca10332beb.png",
     "static/media/Calculadora.png": "/Portfolio/static/media/Calculadora.51bc3a88a1fdee5e1d1e.png",
+    "static/media/Perfil.jpg": "/Portfolio/static/media/Perfil.dae6fc25a366887c21fc.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.578c3dd5.css.map": "/Portfolio/static/css/main.578c3dd5.css.map",
-    "main.b692a818.js.map": "/Portfolio/static/js/main.b692a818.js.map",
+    "main.22d230bd.css.map": "/Portfolio/static/css/main.22d230bd.css.map",
+    "main.6df32bee.js.map": "/Portfolio/static/js/main.6df32bee.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.578c3dd5.css",
-    "static/js/main.b692a818.js"
+    "static/css/main.22d230bd.css",
+    "static/js/main.6df32bee.js"
   ]
 }
