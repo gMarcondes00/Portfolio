@@ -1,4 +1,4 @@
-import './ComponentsAssets/Contato.css';
+import './assets/Contato.css';
 
 function Contato () {
 
