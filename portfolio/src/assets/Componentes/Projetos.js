@@ -18,7 +18,7 @@ function Projetos (){
                         </a>
                     </div>
                     <div className="projetoContainer">
-                        <a href="https://github.com/gMarcondes00/CalculatorJs" target='_blank' rel="noreferrer">
+                        <a href="https://github.com/gMarcondes00/caculatorJs" target='_blank' rel="noreferrer">
                         <img src={Calculadora} className="imagem" alt="" target="_blank"/>
                         <p>Calculadora em JavaScript</p>
                         </a>
