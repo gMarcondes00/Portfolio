@@ -1,4 +1,4 @@
-import './Assets/Projetos.css';
+import './Assets/Projetos.scss';
 import PedraPapel from'./Assets/PedraPapel.png';
 import Calculadora from'./Assets/Calculadora.png';
 import Pomodoro from'./Assets/Pomodoro.png';
