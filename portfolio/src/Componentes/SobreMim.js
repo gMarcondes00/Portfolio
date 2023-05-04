@@ -25,6 +25,8 @@ function SobreMim () {
                     <li className="list">React</li>                      
                     <li className="list">PHP</li>
                     <li className="list">C</li>
+                    <li className="list">PSQL</li>
+                    <li className="list">Uso de APIs</li>
                     <li className="list">HTML & CSS</li>
                 </ul>
             </div>
