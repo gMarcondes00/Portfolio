@@ -1,15 +1,25 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/Portfolio/static/js/main.1f94cef6.js",
+    "main.css": "/Portfolio/static/css/main.578c3dd5.css",
+    "main.js": "/Portfolio/static/js/main.b692a818.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/Pomodoro.png": "/Portfolio/static/media/Pomodoro.d2f25d300563245766b1.png",
+    "static/media/fontawesome-webfont.eot": "/Portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/Tempo.png": "/Portfolio/static/media/Tempo.b47ed3e22dad065c77b8.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/Quote.png": "/Portfolio/static/media/Quote.3a9d8728a0e227125c49.png",
+    "static/media/PedraPapel.png": "/Portfolio/static/media/PedraPapel.7fac59c2c1ca10332beb.png",
+    "static/media/Calculadora.png": "/Portfolio/static/media/Calculadora.51bc3a88a1fdee5e1d1e.png",
     "index.html": "/Portfolio/index.html",
-    "main.073c9b0a.css.map": "/Portfolio/static/css/main.073c9b0a.css.map",
-    "main.1f94cef6.js.map": "/Portfolio/static/js/main.1f94cef6.js.map",
+    "main.578c3dd5.css.map": "/Portfolio/static/css/main.578c3dd5.css.map",
+    "main.b692a818.js.map": "/Portfolio/static/js/main.b692a818.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.1f94cef6.js"
+    "static/css/main.578c3dd5.css",
+    "static/js/main.b692a818.js"
   ]
 }
