@@ -1,0 +1,21 @@
+hr {
+    width: 500px;
+}
+
+.icone {
+    margin: 5px;
+}
+
+.lista > li  {
+    list-style: none;
+}
+
+.lista {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.list {
+    margin: 10px;
+}
